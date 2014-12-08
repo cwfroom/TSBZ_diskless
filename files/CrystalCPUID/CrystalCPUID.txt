@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+         Name : CrystalCPUID
+       Author : hiyohiyo (Crystal Dew World)
+         Mail : hiyohiyo@crystalmark.info
+          Web : http://crystalmark.info/
+  Environment : Windows Vista/2003/XP/2000/NT4/Me/98/95 [x86/x64]
+      License : Freeware
+------------------------------------------------------------------------------
+
+[Special Thanks]
+ To
+ Fab51 [ ita ] (http://fab51.com/)
+ CCPUID [ Cappuccino ] (http://www.cafe-au-lait.info/)
+ CPU-Z [ Franck Delattre ] (http://www.cpuid.com/)
+ SysID [ Morf ] (http://home20.inet.tele.dk/sysid/)
+ WCPUID [ H.Oda! ] (http://www.h-oda.com/)
+ CPUMSR [ Petr Koc ] (http://www.cpuheat.wz.cz/)
+
+[Library]
+ Microsoft Foundation Classes C++ library (MFC)
+ Copyright (C) 1992-1998 Microsoft Corporation
+
+ libpng version 1.2.7
+ Copyright (c) 1998-2004 Glenn Randers-Pehrson
+
+ Zlib 1.2.1
+ Copyright (C) 1995-2003 Jean-loup Gailly and Mark Adler
+
+ Dib Section & libpng wrapper
+ Copyright (c) 2000 Chihiro.SAKAMOTO (HyperWorks)
+
+ MatrixStatic
+ Copyright (C) 2002 by Nic Wilson  http://www.nicsoft.com.au
+ Written by Nic Wilson nicw@bigpond.net.au
+ All rights reserved

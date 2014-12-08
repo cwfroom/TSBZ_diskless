@@ -1,0 +1,1 @@
+msgbox("感谢您的使用。八中Loser主编，感谢Overthere和名扬剑仙两位高手的帮助。这是第一个版本，有什么意见欢迎联系!网站:http://cwf123.com.邮箱:admin@cwf123.com,QQ:281284865") 

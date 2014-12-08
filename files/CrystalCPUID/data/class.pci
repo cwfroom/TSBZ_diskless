@@ -1,0 +1,152 @@
+000000	non-VGA Compatible Device
+000100	VGA Compatible Device
+
+010000	SCSI Bus Controller
+
+010100	Non Bus Master IDE controller
+0101FA	Bus Master IDE controller  
+01018A	Bus Master IDE controller 
+010180	Bus Master IDE controller
+010185	Serial ATA Controller
+01018F	Serial ATA Controller
+
+010200	Floppy Disk Controller
+010300	IPI Bus Controller
+010400	RAID Controller
+010520	ATA Controller with Single DMA
+010530	ATA Controller with chained DMA
+010600	Serial ATA Controller
+010601	Serial ATA Controller
+010602	Serial ATA Controller - AHCI 1.0
+010700	Serial Attached SCSI (SAS) Controller
+018000	Other Mass Storage Controller
+
+020000	Ethernet Controller
+020100	Token Ring Controller
+020200	FDDI Controller
+020300	ATM Controller
+028000	Other Network Controller
+
+030000	VGA Compatible Controller
+030001	8514 Compatible Controller
+030100	XGA Controller
+030200	3D Controller
+038000	Other Display Controller
+
+040000	Video Device
+040100	Audio Device
+040200	Computer Telephon Device
+040300	High-Definition Audio Device
+048000	Other Multimedia Device
+
+050000	RAM
+050100	Flash
+058000	Other Memory Device
+
+060000	Host Bridge
+060100	ISA Bridge
+060200	EISA Bridge
+060300	MC Bridge
+060400	PCI to PCI Bridge
+060401	PCI to PCI Bridge (SSD)
+060500	PCMCIA Bridge
+060600	NuBus Bridge
+060700	CardBus Bridge
+060800	RACEWay Bridge (Transparent Mode)
+060801	RACEWay Bridge (Endpoint Mode)
+060940	PCI to PCI (1st Bus to the Host)
+060980	PCI to PCI (2nd Bus to the Host)
+060A00	PCI to Infiniband
+068000	Other Bridge Device
+
+070000	Generic XT Compatible Serial Controller
+070001	16450 Compatible Serial Controller
+070002	16550 Compatible Serial Controller
+070100	Parallel Port
+070101	Bidirectional Parallel Port
+070102	ECP 1.X Compliant Parallel Port
+070200	Multi Port Serial Controller
+070300	Hayes Compatible Modem
+070301	Hayes Compatible Modem 16450
+070302	Hayes Compatible Modem 16550
+070303	Hayes Compatible Modem 16650
+070304	Hayes Compatible Modem 16750
+070400	GPIB (ieee 488.1/2)
+070500	SmartCard Controller
+078000	Other Communications
+
+080000	Generic 8259 PIC
+080001	ISA PIC
+080002	EISA PIC
+080010	I/O APIC Interrupt Controller
+080020	PID
+080100	Generic 8237 DMA Controller
+080101	ISA DMA Controller
+080102	EISA DMA Controller
+080200	Generic 8254 System Timer
+080201	ISA System Timer
+080202	EISA System Timer
+080300	Generic RTC Controller
+080301	ISA RTC Controller
+080400	Generic PCI Hot Plug Controller
+080500	SD Host Controller without DMA
+080501	SD Host Controller with DMA
+
+088000	Other System Peripheral
+
+090000	Keyboard Controller
+090100	Digitizer(Pen)
+090200	Mouse Controller
+090300	Scanner Controller
+090400	Generic Game Port Controller
+090401	Legacy Based Game Port Controller
+098000	Other Input Controller
+
+0A0000	Generic Docking Station
+0A8000	Other Type Docking Station
+
+0B0000	386
+0B0100	486
+0B0200	Pentium
+0B1000	Alpha
+0B2000	PowerPC
+0B3000	MIPS Processor
+0B4000	Co-processor
+
+0C0000	Firewire (IEEE1394)
+0C0010	OHCI IEEE1394 Controller
+0C0100	ACCESS.bus
+0C0200	SSA
+0C0300	UHCI USB Controller
+0C0310	OHCI USB Controller
+0C0320	EHCI USB Controller
+0C03FE	USB Trget Controller
+0C0400	Fibre Channel
+0C0500	SMBus Contoller
+0C0600	Infiniband
+0C0700	IPMI (SMIC)
+0C0701	IPMI (Keyboard)
+0C0702	IPMI (Block Tx)
+0C0800	SERCOS (IEC61491)
+0C0900	CANbus
+
+0D0000	IrDA Compatible Controller
+0D0100	Consumre IR Controller
+0D1000	RF Controller
+0D8000	Other Wireless Controller
+
+0E00XX	Intelligent I/O Controller
+
+0F0000	TV Satelite Communication Controller
+0F0100	Audio Satelite Communication Controller
+0F0300	Voice Satelite Communication Controller
+0F0400	Data Satelite Communication Controller
+
+100000	Network or Computing Encode/Decode Contoller
+100100	Entertaiment Encode/Decode Contoller
+108000	Other Encode/Decode Contoller
+
+110000	DIPO Module DSP Controller
+118000	Other DSP Controller
+
+FF0000	Undefined Class

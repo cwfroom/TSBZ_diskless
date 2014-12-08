@@ -1,0 +1,1 @@
+msgbox("系统自带的威金病毒已删除！现在可以使用Word、Winrar和RealPlayer了！") 

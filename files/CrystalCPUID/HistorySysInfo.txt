@@ -1,0 +1,602 @@
+- SysInfo [ Update Information ] -----------------------------------------
+
+<Release 451 2008/8/14>
+ÅEPreliminary Support : Intel Mobile Core 2 (Penryn)
+- Preliminary Support : Intel Core i7
+- Update Database
+
+<Release 450 2008/7/11>
+- Fix : Crash at PCI Scan on a part of the environment.
+
+<Release 410 2008/7/6>
+- Support : Hyper Transport (1200MHz-2600MHz)
+- Update Database
+
+<Release 409 2008/6/17>
+- Support : New Feature Flags (AVX, SSE5 and etc...)
+
+<Release 408 2008/6/15>
+- Fix : VID for Core/Core2 (Patched by nejimaki)
+- Support : Min VID for Core 2 (Patched by nejimaki)
+
+<Release 407 2008/6/13>
+- Support : Multiplier Management for Penryn Family (Patched by nejimaki)
+
+<Release 406 2008/6/9>
+- Fix : VID for Penryn Family
+- Preliminary Support : AMD Athlon X2
+
+<Release 405 2008/5/27>
+- Preliminary Support : AMD Phenom X3/X4
+- Update Database
+
+<Release 404 2007/12/16>
+- Preliminary Support : FID/VID Control for Penryn Family
+- Update Database
+
+<Release 403 2007/12/4>
+- Preliminary Support : FID/VID Control for Penryn Family
+- Update Database
+
+<Release 402 2007/11/11>
+- Update Database
+
+<Release 401 2007/11/7>
+- Preliminary Support : AMD Phenom Family
+- Preliminary Support : Intel Core 2 (Penryn Family)
+
+<Release 400 ReBirth 2007/9/25>
+- Add Kernel Mode Code Signing!!
+
+<R343 2007/9/16>
+- Preliminary Support : AMD Phenom Family
+- Fix : Intel Core 2 Duo (Merom)
+- Support : VIA C7 (Esther/Model=0xD)
+- Update Database
+
+<R342 2007/8/16>
+- Support Intel Core 2 Quad Q6700
+
+<R341 2007/8/10>
+- Update Database
+
+<R340 2007/7/15>
+- Support Hyper Transport Speed Detection
+- Update Feature Flags
+- Update Database
+
+<R338 2007/6/11>
+- Support : AMD L3 Cache
+- Update Database
+
+<R337 2007/6/10>
+- Support : Celeron (Conroe-L)
+- Fix SubSystem Vendor/Device ID of PCI-PCI device detection
+- Add Serial ATA Controller to PCI Device Class
+
+<R336 2007/6/6>
+- Preliminary Support : AMD Athlon X2
+- Update Database
+
+<R335 2007/5/23>
+- Update Database
+
+<R334 2007/5/12>
+- Support : Mobile Sempron (Keene)
+- Support : Mobile Athlon 64 (Odessa)
+- Preliminary Support : AMD K10 Family
+- Update Database
+
+<R333 2007/5/6>
+- Fix SSE4 support
+- Update Database
+
+<R332 2007/4/27>
+- Preliminary Support : Intel Xeon (Penryn)
+- Preliminary Support : Intel Core 2 Extreme (Yorkfield)
+- Preliminary Support : Intel Core 2 Quad (Yorkfield)
+- Preliminary Support : Intel Core 2 Duo (Wolfdale)
+- Preliminary Support : SSE4
+- Supprot : Intel Xeon (Conroe)
+- Update Cache Information
+- Update Database
+
+<R331 2007/4/18>
+- Fix Geode LX support
+
+<R330 2007/4/15>
+- Improve Geode LX support
+- Update Database
+
+<R329 2007/4/11>
+- Preliminary Support Intel Core 2 Extreme QX6800 
+- Update Database
+
+<R328 2007/3/4>
+- Update Database
+
+<R327 2007/2/12>
+- Support Pentium DC (Conroe-1M)
+- Support Celeron (Conroe-L/Merom-L)
+- Support SSE4A
+- Support K8 Under 1.1V detection
+- Support K8 100MHz Steps detection
+- Update Database
+
+<R326 2007/2/5>
+- Bug fix
+
+<R325 2007/2/4>
+- Fix Number of Physical Core detection
+- Fix NVIDIA chipset detection
+- Update Database
+
+<R324 2007/1/21>
+- Socket S1g1 -> Socket S1
+- Update Database
+
+<R323 2007/1/16>
+- Bug Fix
+
+<R322 2007/1/4>
+- Support MicrocodeID for AMD K8
+- Support Athlon 64 (Lima)
+
+<R321 2007/1/2>
+- Fix Intel Core 2 Extreme (Duo/Quad) support
+- Support Turion 64 (Richmond)
+- Support Turion 64 X2 (Trinidad)
+- Support Turion 64 X2 (Tyler)
+- Update Database
+
+<R320 2006/12/9>
+- Support "Socket F"
+- Update Database
+
+<R319 2006/11/28>
+- Fix Core 2 Duo Cache Information
+- Update Database
+
+<R318 2006/11/26>
+- Support Xeon (Clovertown)
+- Update Database
+
+<R317 2006/11/19>
+- Fix Intel Core 2 Extreme X6800/QX6700 support
+
+<R316 2006/11/8>
+- Support Geode LX
+
+<R315 2006/11/2>
+- Update Database
+
+<R314 2006/10/12>
+- Support Core 2 Duo (Allendale)
+- Update Database
+
+<R313 2006/9/30>
+- SSE4 -> SSSE3 (Supplemental SSE3)
+- Update cache information for Intel
+- Update Database
+
+<R312 2006/9/23>
+- Fix Intel Core 2 support
+
+<R311 2006/9/20>
+- Support Intel Core 2 Quadro
+- Update Database
+
+<R310 2006/8/2>
+- Fix Intel Core 2 Extreme support
+- Update Database
+
+<R309 2006/7/18>
+- Fix Pentium XE support
+
+<R308 2006/7/13>
+- Update Database
+
+<R307 2006/6/3>
+- Support Celeron D (Cedar Mill-V)
+
+<R306 2006/5/29>
+- Fix Socket AM2 support
+- Support AMD-V
+- Update Database
+
+<R305 2006/5/27>
+- Fix Intel Core 2 Extrem/Duo (Conroe/Merom)
+
+<R304 2006/5/27>
+- Support Athlon 64 FX (Windsor)
+- Support Athlon 64 (Orleans)
+- Support Sempron (Manila)
+- Support Athlon 64 X2 (Windsor)
+- Fix Xeon (Woodcrest) support
+- Fix Xeon (Dempsey) support
+
+<R303 2006/5/24>
+- Fix Intel Core 2 Duo (Conroe/Merom) support
+
+<R302 2006/5/23>
+- Fix C7 L2 chche information
+
+<R301 2006/5/22>
+- Improve C7 support
+- Improve Intel Core 2 Duo (Conroe) support (fix OriginalClock information)
+- Support Intel Core 2 Exream (Conroe)
+
+<R300 2006/5/21>
+- Support SSE4
+- Support Turion 64 X2 (Taylor)
+- Support Intel Core 2 Duo (Conroe/Merom)
+- Support Celeron D (Prescott-128K)
+- Update Database
+
+<R299 2006/4/26>
+- Support K8 Low Voltage Table (Ref. ReadMeCpuid.txt)
+- Update Database
+
+<R298 2006/4/16>
+- Support Mobile Sempron LV (Roma)
+
+<R297 2006/4/12>
+- Fix Mobile Athlon XP-M (Dublin) support (thanks Devid)
+
+<R296 2006/4/11>
+- Fix Xeon (Sossaman)
+- Support VIA C7
+- Support Celeron M (Yonah)
+- Support Intel Core (Conroe/Merom)
+- Support Xeon (Woodcrest)
+- Update Database
+
+<R295 2006/3/31>
+- Fix Intel Core support
+- Fix CPUID function (ECX=0)
+- Update Database
+
+<R294 2006/3/28>
+- Support Xeon (Sossaman)
+- Update Database
+- Change Compile Option /O1 -> /Od (x86 edition only)
+
+<R293 2006/3/14>
+- Fix Intel Core support
+- Fix Clock measurement on EIST
+- Fix Coppermine support
+
+<R292 2006/3/9>
+- Fix Intel Core support
+- Fix Clock measurement on EIST
+- Update Database
+
+<R291 2006/2/21>
+- fix OS mode detection
+
+<R290 2006/2/16>
+- Update Database
+
+<R289 2006/2/3>
+- Update Database
+
+<R288 2006/1/15>
+- Update Database
+
+<R287 2006/1/4>
+- Update Database
+
+<R286 2006/1/3>
+- Update Database
+
+<R285 2005/12/8>
+- Improve Athlon 64 support
+
+<R284 2005/12/4>
+- Bug Fix
+
+<R283 2005/12/3>
+- Fix Old Opteron support
+
+<R282 2005/11/30>
+- Support Athlon 64 FX-60
+
+<R281 2005/11/27>
+- Support Intel Core Solo/Duo (Yonah SC/DC)
+- Update Database
+
+<R280 2005/11/26>
+- Support VT
+
+<R279 2005/11/18>
+- Support Opteron (Venus/Troy/Athens)
+
+<R278 2005/11/13>
+- Fix Crystal'n'Quiet
+- Update Database
+
+<R277 2005/10/23>
+- Fix Athlon 64 X2 support (Manchester)
+- Update Database
+
+<R276 2005/10/16>
+- Support Xeon (Paxville/Paxville DP)
+- Support Physical Core for Pentium D/XE
+
+<R275 2005/10/10>
+- Update Database
+- Fix Old CPUs Support
+- Support Die Size & Number of Transister for K6/K7/P5/P6/P4/PM/VIA (Beta)
+
+<R274 2005/10/5>
+- Update Database
+- Support Die Size & Number of Transister for K8 (Beta)
+
+<R273 2005/9/25>
+- Support K8 Model Number (Beta)
+
+<R272 2005/9/24>
+- Fix Athlon 64 X2 support (Toledo/Manchester)
+
+<R271 2005/9/19>
+- Support Dual C3
+- Fix device driver
+- Fix Processor Mask on SetThreadAffinityMask
+- Update Database
+
+<R270 2005/9/1>
+- Add device driver for NT4 
+
+<R269 2005/8/27>
+- Fix Transmeta Feature Flags information
+- Update Database
+
+<R268 2005/8/17>
+- Improve Athlon 64 X2 support 
+
+<R267 2005/8/10>
+- Improve Turion 64 (Lancaster) support
+
+<R266 2005/8/6>
+- Support Sempron E6 Core
+
+<R265 2005/7/29>
+- Fix Xeon support
+- Update Database
+
+<R264 2005/7/24>
+- Update Database
+
+<R263 2005/7/16>
+- Fix Pentium XE/D (Smithfield) support
+- Update Database
+
+<R262 2005/7/12>
+- Fix Pentium XE/D (Smithfield) support
+
+<R261 2005/6/26>
+- Fix Pentium XE/D (Smithfield) support
+- Update Database
+
+<R260 2005/6/23>
+- Improve Dual Core support
+- Fix Pentium XE (Dual Core + HTT) support
+
+<R259 2005/6/22>
+- Support Athlon 64 X2 (Manchester)
+
+<R258 2005/6/19>
+- Improve PCI Device search function (Bus 0-7 -> 0-255)
+- Support Sempron (Victoria)
+- Update Database
+
+<R257 2005/6/10>
+- Improve Intel CPU support
+
+<R256 2005/5/30>
+- Bug Fix
+
+<R255 2005/5/29>
+- Fix Pentium XE/D (Smithfield) support
+- Update Database
+
+<R254 2005/5/28>
+- Support C7 (Esther)
+
+<R253 2005/5/22>
+- Support Turion 64 (Lancaster)
+- Update Database
+
+<R252 2005/5/6>
+- Support Number of Physical Core
+- Update Database
+
+<R251 2005/5/2>
+- Support Pentium XE
+- Fix SpeedStep Control for Pentium 4 6xx
+
+<R250 2005/4/26>
+- Support Opteron Dual-Core / Athlon 64 X2
+- Improve K6/K7/K8 Multiplier
+
+<R249 2005/4/18>
+- Update Database
+
+<R248 2005/4/10>
+- Fix Celeron D support
+
+<R247 2005/4/1>
+- Support Pentium M (Yonah)
+
+<R246 2005/3/27>
+- Update Database
+- Fix nForce4 support
+
+<R245 2005/3/26>
+- Fix Pentium 4 6xx
+
+<R244 2005/3/18>
+- Support AMD Athlon 64 (Venice)
+
+<R243 2005/3/13>
+- Fix Pentium M(FSB533MHz)
+- Update Database
+
+<R242 2005/3/10>
+- Support Athlon 64 FX (San Diego)
+- Support Athlon 64 (San Diego)
+- Support Athlon 64 (SledgeHammer) for Socket 939
+- Fix Pentium II OverDrive for Socket 8
+
+<R241 2005/3/7>
+- Support Pentium 4 XE (Prescott-2M)
+- Support Mobile Turion 64 (Lancaster)
+- Fix ModelEx for AMD
+
+<R240 2005/2/17>
+- Fix Intel Pentium M (Banias/Dothan) Multiplier
+
+<R239 2005/2/15>
+- Fix Intel Pentium M (Banias/Dothan) Multiplier
+
+<R238 2005/2/14>
+- Fix Intel Pentium M (Dothan) Multiplier
+- Fix Intel Celeron M Cache Information
+
+<R237 2005/2/13>
+- Add Intel Pentium M (Dothan) Multiplier
+
+<R236 2005/2/8>
+- Improve Support Pentium M (FSB 533MHz)
+
+<R235 2005/2/3>
+- Support Pentium M (FSB 533MHz)
+
+<R234 2005/1/26>
+- Fix FamilyEx & ModelEx information
+
+<R233 2005/1/21>
+- Support AMD Turion 64
+
+<R232 2005/1/11>
+- Improve Load Device Driver Method
+
+<R231 2005/1/9>
+- Improve Load Device Driver Method
+- Improve Detect Host Bridge for nForce4
+
+<R230 2005/1/8>
+- Support New MSR Access Method!!(More Safety, NT only)
+- Fix FamilyEx & ModelEx information
+
+<R229 2004/12/24>
+- Fix K6-2+/III+ Multiplier Management
+
+<R228 2004/12/23>
+- Support K6-2+/III+ Multiplier Management
+- Update Database
+
+<R227Alpha 2004/12/22>
+- Support K6-2+/III+ Multiplier, but this feature doesn't work...
+
+<R226 2004/12/8>
+- Multiplier Management & K7/K8 Multiplier support Dual Opteron
+(BIOS support required)
+
+<R225 2004/12/6>
+Special Thanks Cappuccino
+- Support Xeon (Irwindale)
+- Support Xeon MP (Cranford)
+- Improve FSB=1066MHz
+- Support FSB=667MHz
+- Intel Family==0xF && Model==5 => Pentium 5 ???
+
+<R224 2004/11/26>
+- detect x64 or x86
+
+<R223 2004/11/25>
+- Support 32bit DLL + 64bit Driver
+
+<R222 2004/11/13>
+- Improve Multiplier Management Supprot
+
+<R221 2004/11/13>
+- Fix TM8300 Support
+- Update Database
+
+<R220 2004/11/6>
+- export ReadMSR, WriteMSR function
+
+<R219 2004/11/3>
+- Fix FSB 1066MHz (Pentium 4 XE) support
+
+<R218 2004/10/31>
+- Support FSB 1066MHz (Pentium 4 XE)
+- Improve SpeedStep support
+- Update Database
+
+<R217 2004/10/28>
+- Support Pentium III (Tualatin) BrandID 3 [OEM]
+
+<R216 2004/10/26>
+- Support Pentium 4 Prescott E0 Stepping
+
+<R215 2004/10/24>
+- Support Athlon 64 (Winchester) 90nm
+
+<R214 2004/10/22>
+- Fix Celeron D support
+
+<R213 2004/10/19>
+- Bug Fix
+
+<R212 2004/10/14>
+- Improve changing multiplier on nForce2???
+-> http://www20.tomshardware.com/cpu/20041001/athlon-underclocking-08.html
+
+<R211 2004/10/12>
+- Support Celeron D with NX
+
+<R210 2004/10/3>
+- Update Database
+
+<R209 2004/10/1>
+- Bug Fix
+
+<R208 2004/9/30>
+- Improve Sempron support
+
+<R207 2004/9/26>
+- Bug Fix
+- Update database
+
+<R206 2004/9/26>
+- Support AMD's 90nm processor, may be...
+
+<R205 2004/9/25>
+- Bug Fix
+
+<R204 2004/9/20>
+- Support low voltage Xeon (Nocona)
+
+<R203 2004/9/18>
+- Improve Sempron support
+
+<R202 2004/9/18>
+- Fix TM8800 process rule
+- Support Mobile Athlon XP-M Family 15 (NewCastle)
+- Support Sempron 3000+ (Barton)
+- Provisional Support C7 (Esther)
+
+<R201 2004/9/12>
+- Support TM8800
+- Support PCI/DMI information on x64
+- x86-64 -> x64
+
+<R200 2004/9/5>
+- Fix about loading NT driver
+
+<R195-199 missing number>
+
+<R194 2004/8/29>
+- Update database
